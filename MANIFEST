@@ -1,0 +1,16 @@
+CHANGES
+MANIFEST
+META.yml
+Makefile.PL
+lib/Hoof.pm
+lib/Hoof/Cache.pm
+lib/Hoof/Context.pm
+lib/Hoof/Controller.pm
+lib/Hoof/Dispatcher.pm
+lib/Hoof/Entity.pm
+lib/Hoof/Escape.pm
+lib/Hoof/Exception.pm
+lib/Hoof/Model.pm
+lib/Hoof/Node.pm
+lib/Hoof/Plugin.pm
+lib/Hoof/Value.pm
